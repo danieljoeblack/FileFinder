@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\danie\source\repos\testingfilesystemstuff\testingfilesystemstuff\ioutility.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\source\repos\testingfilesystemstuff\testingfilesystemstuff\fileutility.cpp(124): warning C4101: 'e2': unreferenced local variable
+  TestingFileSystemStuff.vcxproj -> C:\Users\danie\source\repos\TestingFileSystemStuff\Debug\TestingFileSystemStuff.exe
